@@ -1,0 +1,18 @@
+{
+  "name": "massor",
+  "owner": {
+    "name": "Massor",
+    "url": "https://massor.app"
+  },
+  "metadata": {
+    "description": "Massor plugins for personal trainers."
+  },
+  "plugins": [
+    {
+      "name": "massor",
+      "source": "./plugins/massor",
+      "description": "Build programs and manage client workouts in Massor from Claude.",
+      "category": "productivity"
+    }
+  ]
+}
