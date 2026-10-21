@@ -1,6 +1,6 @@
 {
   "name": "massor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Build programs and manage client workouts in Massor from Claude. Connects to the Massor MCP server and signs in with your trainer account.",
   "author": {
     "name": "Massor",
